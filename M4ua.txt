@@ -1,1 +1,1 @@
-Dalvik/2.1.0 (Linux; U; Android 10; X20 Build/QP1A.934476.943) [FBAN/FB4A;FBAV/73.0.0.82;FBBV/26322039;FBDM/{density=2.8724311884067224,width=1022,height=2117};FBLC/en_US;FBRV/293084470;FB_FW/5;FBCR/Telenor;FBMF/Alcatel;FBBD/Alcatel;FBPN/com.facebook.katana;FBDV/Alcatel 5X;FBSV/5.5.2;FBOP/0;FBCA/arm64-v8a:armeabi-v7a;]
+[FBAN/Orca-Android;FBAV/458.0.0.54.108;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/599002760;FBCR/IND airtel;FBMF/motorola;FBBD/motorola;FBDV/moto e32(s);FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=1.75,width=720,height=1440};FB_FW/1;] 
