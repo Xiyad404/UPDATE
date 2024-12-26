@@ -1,0 +1,1 @@
+[FBAN/FB4A;FBAV/264.0.0.44.111;FBBV/206636728;FBDM/{density=3.375,width=1080,height=2058};FBLC/en_US;FBRV/208308484;FBCR/Banglalink;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G892A;FBSV/9;FBOP/19;FBCA/arm64-v8a:;]
